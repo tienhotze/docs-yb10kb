@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tienhotze.github.io/docs-yb10kb/sitemap.xml
